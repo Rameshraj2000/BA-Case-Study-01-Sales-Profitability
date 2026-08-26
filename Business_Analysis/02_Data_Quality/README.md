@@ -23,4 +23,7 @@ The analysis therefore distinguishes observed findings from assumptions and limi
 
 ## Evidence
 
-The detailed data-quality assessment is included in the supporting project documentation.
+The data quality assessment is documented within the
+**Data Profiling Report** in the `01_Business_Problem` section.
+
+The report covers the identified data-quality issues, their potential impact on the analysis, and the assumptions considered during the investigation.

@@ -140,3 +140,8 @@ The Sprint evidence is retained so the complete BA workflow can be reviewed when
 This project helped me practise turning a broad business question into measurable analysis, validating data before using it, drilling from high-level KPIs into root causes, and translating findings into practical recommendations.
 
 **Key BA lesson:** High sales do not automatically mean healthy business performance. The important question is where revenue is failing to translate into profit, and what management can realistically do about it.
+---
+
+## Project Status
+
+**Completed:** End-to-end Business Analyst case study covering business problem definition, data quality assessment, SQL analysis, requirements, stakeholder planning, recommendations and Power BI reporting.

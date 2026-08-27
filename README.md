@@ -82,19 +82,19 @@ This narrowed the business problem to specific areas that management can investi
 
 Management view of sales, profit, margin, regional contribution and discount exposure.
 
-![Executive Overview](Dashboard/01_Executive_Overview.png)
+![Executive Overview](Dashboard/01_Executive_Overview.PNG)
 
 ## Profitability Deep Dive
 
 Category, sub-category, discount and product profitability analysis.
 
-![Profitability Deep Dive](Dashboard/02_Profitability_Deep_Dive.png)
+![Profitability Deep Dive](Dashboard/02_Profitability_Deep_Dive.PNG)
 
 ## Product & Loss Analysis
 
 Bottom loss-making products, top profitable products and detailed product-level evidence.
 
-![Product & Loss Analysis](Dashboard/03_Product_Loss_Analysis.png)
+![Product & Loss Analysis](Dashboard/03_Product_Loss_Analysis.PNG)
 
 ---
 
